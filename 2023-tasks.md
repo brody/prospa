@@ -1,6 +1,7 @@
 # 2023 Tasks
 
 This file is meant to communicate my priorities on a weekly basis.
+
 ---
 
 ## November
