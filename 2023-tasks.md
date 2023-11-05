@@ -18,5 +18,6 @@ This file is meant to communicate my priorities on a weekly basis.
 
 - [x] Update & publish monthly newsletter
 - [>] Update a11y docs for illos & pictos
-- [ ] Prep beer pong tournament for Halloween party
+- [x] Prep beer pong tournament for Halloween party
+- [x] Launch markdown task list...
 
